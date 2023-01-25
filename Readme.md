@@ -2,9 +2,9 @@
 
 > Set up the project, the goal here is to master all of the tools and best practices about Linter and Gitflow.
 
-![screenshot](./hipnosis-phone.png)
-![screenshot](./hypnosis-des.png)
-![screenshot](./hypnosis-tm.png)
+![screenshot](./Hypnosis-img/hipnosis-phone.png)
+![screenshot](./Hypnosis-img/hypnosis-des.png)
+![screenshot](./Hypnosis-img/hypnosis-tm.png)
 
 Additional description about the project and its features.
 
