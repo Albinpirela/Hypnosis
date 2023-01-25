@@ -38,11 +38,12 @@ body {
 .searchbox-a {
   border: none;
   background-color: #fff;
+  font-size: 2em;
 }
 
 .title {
   position: relative;
-  right: 45px;
+  right: 50px;
   width: 50%;
   height: 50px;
 }
@@ -62,8 +63,9 @@ body {
   height: 40px;
   border: none;
   background-color: #fff;
-  right: 20px;
+  right: 40px;
   top: 20px;
+  font-size: 2em;
 }
 
 .headerbox {
